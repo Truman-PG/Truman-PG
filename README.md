@@ -6,4 +6,4 @@ Veja os meus repositorios e aproveite, ainda sou um iniciante em programação, 
 
 ## Objetivos
 
-Ter um cachorro  que irá se chamar serelepe e dar uma condição financeira melhor para os meus pais.
+Ter um cachorro  que irá se chamar Serelepe e dar uma condição financeira melhor para os meus pais.
