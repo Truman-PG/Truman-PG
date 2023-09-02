@@ -1,4 +1,4 @@
-# O meu nome é Diogo Reis
+# Diogo Reis
 
 ## Bem-vindo!
 
